@@ -21,3 +21,10 @@ Power BI Desktop · Power Query · DAX
 What I'd Improve
 Switch one chart from Sum to Average pricing for a more accurate read on manufacturer price tier
 Replace a dual-axis line chart with a bar/scatter to avoid implying a false trend across categories
+
+car analysis dashboard
+
+<img width="637" height="361" alt="CarAnalysis" src="https://github.com/user-attachments/assets/b5fbff2e-227b-4df4-a132-2bd24f1949f5" />
+
+<img width="1276" height="418" alt="image" src="https://github.com/user-attachments/assets/0ce4168a-9ad5-48d3-90d7-202338e01be9" />
+
